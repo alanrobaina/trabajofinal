@@ -1,4 +1,10 @@
-.texto1{
-    justify-items: center;
-    align-items: center;
+.abs-center{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+}
+
+.fondo{
+  background-size: 100%;
 }
